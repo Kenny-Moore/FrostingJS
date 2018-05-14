@@ -1,0 +1,33 @@
+{
+  "name": "frostingjs",
+  "description": "Js library to generate color palettes approaching the logic of Google Material Design Color Palettes.",
+  "main": "frosting.min.js",
+  "version": "0.0.1",
+  "authors": [
+    "Kenneth Moore"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gooeyideas/FrostingJS"
+  },
+  "moduleType": [],
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "logo",
+    "bower_components",
+    "Gulpfile.js",
+    "compilerconfig.json",
+    "compilerconfig.json.defaults"
+  ],
+  "keywords": [
+    "google material",
+    "color",
+    "themes"
+  ],
+  "dependencies": {
+    "tinycolor": "~1.4.1"
+  }
+}
