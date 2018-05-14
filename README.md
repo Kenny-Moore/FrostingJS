@@ -10,7 +10,7 @@ See a working example: https://codepen.io/GooeyIdeas/pen/QqJKmq?editors=0010
 ## Including in a browser
 *if you want to try it out you can download it yourself and include it locally. Not ready to publish a npm/bower package*
 
-## Usage
+## Basic Usage (Will Likely Change)
 Create a new frosting and initalize as many named pallettes as you want. Start by passing in a single color and Frosting will generate the entire pallete,
 ```js
 let paletteFrom = "#00A5E0"; 
